@@ -36,7 +36,7 @@
 
 ## 🎬 Джейсон Стэйтем
 
-| ![Jason Statham](https://upload.wikimedia.org/wikipedia/commons/3/30/Jason_Statham_by_Gage_Skidmore_2.jpg](https://img-webcalypt.ru/uploads/admin/images/meme-templates/oBRIka6zcKaJxKVvbo5gK0WuO27yhAio.jpg) |
+| ![Jason Statham](https://github.com/Ankerin/Ankerin/image.png) |
 |:---:|
 | Jason Statham |
 
