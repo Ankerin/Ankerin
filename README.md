@@ -30,6 +30,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankerin&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankerin&layout=compact&theme=radical)
 
+---
+
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ankerin&theme=react-dark&hide_border=true)
 
 ---
