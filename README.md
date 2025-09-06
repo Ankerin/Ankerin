@@ -21,29 +21,41 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📊 GitHub статистика
+## 📊 GitHub Stats & Contributions
 
-<!-- Статистика профиля -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankerin&show_icons=true&theme=radical&count_private=true)
-
-<!-- Топ языки -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankerin&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankerin&layout=compact&theme=radical)
-
-<!-- Карта коммитов -->
-![GitHub Contributions](https://github.com/Ankerin/Ankerin/raw/output/github-contribution-grid-snake.svg)
+![Contribution Graph](https://github.com/Ankerin/Ankerin/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-## ⚡ Основные навыки
+## ⏱️ WakaTime / Coding Activity
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ankerin&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ankerin&theme=radical)
+
+---
+
+## 🏆 Coding Challenges
+
+![Codewars](https://www.codewars.com/users/Ankerin/badges/large)
+![LeetCode](https://leetcard.jacoblin.cool/Ankerin?theme=dark)
+![HackerRank](https://www.hackerrank.com/badges/image/Ankerin)
+
+---
+
+## ⚡ Навыки
 
 - Архитектура и оптимизация приложений  
-- Интеграция ML/AI в продакшен  
+- ML/AI в продакшен  
 - Кроссплатформенная разработка: React Native / Swift  
 - Игровые движки: Unity / Unreal Engine  
 - Руководство командами и стартапами  
+- Работа с базами данных: SQL / NoSQL  
 
 ---
 
