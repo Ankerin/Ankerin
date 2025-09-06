@@ -25,11 +25,12 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats & Contribution
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankerin&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankerin&layout=compact&theme=radical)
-![Contribution Graph](https://github.com/Ankerin/Ankerin/raw/output/github-contribution-grid-snake.svg)
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ankerin&theme=react-dark&hide_border=true)
 
 ---
 
@@ -37,14 +38,6 @@
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ankerin&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ankerin&theme=radical)
-
----
-
-## 🏆 Coding Challenges
-
-![Codewars](https://www.codewars.com/users/Ankerin/badges/large)
-![LeetCode](https://leetcard.jacoblin.cool/Ankerin?theme=dark)
-![HackerRank](https://www.hackerrank.com/badges/image/Ankerin)
 
 ---
 
