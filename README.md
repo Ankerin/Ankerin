@@ -26,8 +26,14 @@
 
 ## 📊 GitHub статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankerin&show_icons=true&theme=radical)
+<!-- Статистика профиля -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankerin&show_icons=true&theme=radical&count_private=true)
+
+<!-- Топ языки -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankerin&layout=compact&theme=radical)
+
+<!-- Карта коммитов -->
+![GitHub Contributions](https://github.com/Ankerin/Ankerin/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -37,7 +43,7 @@
 - Интеграция ML/AI в продакшен  
 - Кроссплатформенная разработка: React Native / Swift  
 - Игровые движки: Unity / Unreal Engine  
-- Руководство командой и стартапами  
+- Руководство командами и стартапами  
 
 ---
 
