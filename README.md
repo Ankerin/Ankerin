@@ -36,7 +36,7 @@
 
 ## 🎬 Джейсон Стэйтем
 
-| ![Jason Statham](https://github.com/Ankerin/Ankerin/image.png) |
+| ![Jason Statham](https://github.com/Ankerin/Ankerin/image.png](https://github.com/Ankerin/Ankerin/blob/main/github.png) |
 |:---:|
 | Jason Statham |
 
