@@ -34,10 +34,11 @@
 
 ---
 
-## ⏱️ WakaTime / Coding Activity
+## 🎬 Джейсон Стэйтем
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ankerin&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ankerin&theme=radical)
+| ![Jason Statham](https://upload.wikimedia.org/wikipedia/commons/3/30/Jason_Statham_by_Gage_Skidmore_2.jpg) |
+|:---:|
+| Jason Statham |
 
 ---
 
