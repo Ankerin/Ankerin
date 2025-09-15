@@ -1,4 +1,4 @@
-# 🚀 Ankerin
+# 👋
 
 **ML Engineer | Senior Developer | CEO & Founder — AstroLune**  
 
