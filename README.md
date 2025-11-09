@@ -1,5 +1,3 @@
----
-
 # 👋
 
 **C++ Engineer | Systems Architect | CEO & Founder — AstroLune**
@@ -8,26 +6,26 @@
 
 ## ⚙️ Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=for-the-badge\&logo=unreal-engine\&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 ---
 
 ## 💻 Specialization
 
-* **High-Performance Systems Development**
+* **High-Performance Systems Development**  
   Низкоуровневые модули, системные API, ядра, движковые компоненты.
 
-* **Real-Time Applications**
+* **Real-Time Applications**  
   Многопоточность, синхронизация, работа с памятью, zero-copy архитектуры.
 
-* **Game / Engine Internals**
+* **Game / Engine Internals**  
   Разработка рендеров, ECS, физики и логики движков.
 
-* **Cross-Platform Systems**
+* **Cross-Platform Systems**  
   Linux / Windows / Embedded / Unreal / Custom Runtime
 
-* **Reverse Engineering & Optimization**
+* **Reverse Engineering & Optimization**  
   ASM-инъекции, профилирование, SIMD, SSE/AVX, cache-friendly структуры данных.
 
 ---
@@ -52,13 +50,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankerin\&show_icons=true\&theme=tokyonight\&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankerin\&layout=compact\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankerin&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankerin&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌌 Contacts
 
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/netcordix)
-
----
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/netcordix)
