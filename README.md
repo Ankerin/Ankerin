@@ -28,7 +28,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankerin\&show_icons=true\&theme=radical\&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankerin\&layout=compact\&theme=radical)
 
-![Jason Statham](https://github.com/Ankerin/Ankerin/blob/main/github.png)
+![Jason Statham]()
 
 ---
 
