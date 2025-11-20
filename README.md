@@ -7,7 +7,6 @@
 ## ⚙️ Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 ---
 
