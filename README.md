@@ -1,6 +1,6 @@
 # 👋
 
-** CEO & Founder — AstroLune**
+CEO & Founder — AstroLune
 
 ---
 
