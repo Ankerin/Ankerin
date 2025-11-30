@@ -1,6 +1,6 @@
 # 👋
 
-**C++ Engineer | Systems Architect | CEO & Founder — AstroLune**
+** CEO & Founder — AstroLune**
 
 ---
 
