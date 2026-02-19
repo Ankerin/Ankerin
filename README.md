@@ -70,7 +70,7 @@ fullstack / backend разработчик. строю всё от микрос�
 
 ### связь
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Ankerin-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Ankerin)
+[![Telegram](https://img.shields.io/badge/Telegram-@Ankerin-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ankerin024)
 
 ---
 
